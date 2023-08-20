@@ -13,3 +13,4 @@ Resources and extra documentation for the manuscript "A Global Sensitivity-based
    3. `sensitivity_analysis_sobol.py`. Implementation of Sobol sensitivity analysis using a Gaussian process emulator.
    4. `example_sobol.py`. Example of how to extract Sobol sensitivities.Sobol method is used to analyze the key variables that influence the comprehensive index.
    5. `data.csv`. An example data file  containing the inputs and ouputs of an agent based model.
+3. `GraphicalAbstract.png`:The figure for the `README.m` file.
